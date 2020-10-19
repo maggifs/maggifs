@@ -1,9 +1,11 @@
 # ![my header](banner.png)
 
-### Hi there 👋
+### Hello there 👋
 
-My name is Magnús and I am a software developer from Iceland
+My name is Magnús and I'm a software developer from Iceland. You can find me on <a href="https://www.linkedin.com/in/magnusfsveins/"><img align="center" height="20" src="linkedin.png"></a>
 
+
+## GitHub Stats
 <a href="https://github.com/maggifs/maggifs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maggifs&layout=compact&theme=dracula" alt="Maggifs GitHub Stats" />
 </a>

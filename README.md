@@ -1,6 +1,6 @@
 # ![my header](banner.png)
 
-### Hello there 👋
+## Hello there 👋
 
 My name is Magnús and I'm a software developer from Iceland. You can find me on <a href="https://www.linkedin.com/in/magnusfsveins/"><img align="center" height="20" src="linkedin.png"></a>
 

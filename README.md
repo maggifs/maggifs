@@ -7,10 +7,10 @@ My name is Magnús and I'm a software developer from Iceland. You can find me on
 
 ## GitHub Stats
 <a href="https://github.com/maggifs/maggifs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maggifs&layout=compact&theme=dracula" alt="Maggifs GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maggifs&layout=compact&title_color=c16b6b&text_color=c9cacc&icon_color=78d9f9&bg_color=1c1c1c" alt="Maggifs GitHub Stats" />
 </a>
 <a href="https://github.com/maggifs/maggifs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maggifs&show_icons=true&theme=dracula&count_private=true" alt="Maggifs GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maggifs&show_icons=true&count_private=true&line_height=27&title_color=c16b6b&text_color=c9cacc&icon_color=78d9f9&bg_color=1c1c1c" alt="Maggifs GitHub Stats" />
 </a>
 
 <!--

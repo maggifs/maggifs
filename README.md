@@ -1,6 +1,6 @@
 # ![my header](banner.png)
 
-## Hello there 👋
+## Hello there <img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="35px">
 
 My name is Magnús and I'm a software developer from Iceland. You can find me on <a href="https://www.linkedin.com/in/magnusfsveins/"><img align="center" height="20" src="linkedin.png"></a>
 
@@ -12,6 +12,8 @@ My name is Magnús and I'm a software developer from Iceland. You can find me on
 <a href="https://github.com/maggifs/maggifs">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maggifs&show_icons=true&count_private=true&line_height=27&title_color=c16b6b&text_color=c9cacc&icon_color=78d9f9&bg_color=1c1c1c" alt="Maggifs GitHub Stats" />
 </a>
+
+
 
 <!--
 **maggifs/maggifs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
